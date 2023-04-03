@@ -1,4 +1,5 @@
-
+#ulfa stevi juliana
+#G1A022042
 #Functional Programming (FP)
 def square(num):
   return num ** 2
