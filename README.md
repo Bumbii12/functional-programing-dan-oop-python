@@ -1,5 +1,5 @@
-#ulfa stevi juliana
-#G1A022042
+# ulfa stevi juliana
+# G1A022042
 """
 Functional Programming (FP) dan Object-Oriented Programming (OOP)
 adalah paradigma pemrograman yang berbeda dalam hal pendekatan dalam 
@@ -21,7 +21,7 @@ data dan perilaku ke dalam satu entitas, sehingga lebih mudah untuk memodelkan
 dunia nyata yang kompleks.
 """
 
-#Functional Programming (FP)
+# Functional Programming (FP)
 def square(num):
   return num ** 2
 
@@ -46,7 +46,7 @@ suatu daftar/list, dan mengembalikan daftar/list yang berisi hasil
 operasi tersebut pada setiap elemen.
 """
 
-#Object-Oriented Programming (OOP)
+# Object-Oriented Programming (OOP)
 class Rectangle:
   def __init__(self, width, height):
     self.width = width
